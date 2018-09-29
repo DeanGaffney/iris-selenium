@@ -13,7 +13,7 @@ The following is the schema that was created in Iris for the agent.
 ![Iris UI Schema](./images/iris-selenium-schema.PNG)
 
 ## Agent Dashboard
-The following image shows the dashboard for the agent inside Iris where it is keeping track of guitar prices
+The following image shows the dashboard for the agent inside Iris where it is keeping track of guitar prices.
 ![Iris Dashboard](./images/iris-selenium-dashboard.PNG)
 
 ## Video Demonstration
