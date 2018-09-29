@@ -16,6 +16,9 @@ The following is the schema that was created in Iris for the agent.
 The following image shows the dashboard for the agent inside Iris where it is keeping track of guitar prices.
 ![Iris Dashboard](./images/iris-selenium-dashboard.PNG)
 
+## Agent Transformation Rule
+This agent has no transformation rule, please see the [Node.js Agent](https://github.com/DeanGaffney/iris-node) for an example of a transformation rule.
+
 ## Video Demonstration
 
 [Iris Selenium Agent Demo](https://youtu.be/n2G9Do_DZgI)
